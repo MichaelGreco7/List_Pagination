@@ -2,7 +2,7 @@ JS Pagination and Search Project
 By Michael Greco
 ================================
 ## Requirements
-test test3
+test
 
 - [x] Use the filters-example.html file to guide your decision making. Using progressive enhancement, your work should affect the index.html file.
 
